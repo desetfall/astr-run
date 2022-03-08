@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdcd6f1364afdb04ca1e337b6dc7413c, type: 3}
+  m_Name: P3
+  m_EditorClassIdentifier: 
+  ProductID: 2
+  Price: 30
+  ProductIcon: {fileID: 21300000, guid: 33d13556816e66243bb66f6d1444b0c3, type: 3}
+  HeadMaterial: {fileID: 2100000, guid: d2c8f925eb40c4748811efdd803f25c6, type: 2}
+  BodyMaterial: {fileID: 2100000, guid: fb743f5a06bb5374ab6edc3240987b70, type: 2}
+  HandLegsMaterial: {fileID: 2100000, guid: 414ab996e4d753c41899b780b3eb41eb, type: 2}
